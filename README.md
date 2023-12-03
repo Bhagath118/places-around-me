@@ -8,11 +8,9 @@ To develop a website to display details about the places around my house.
 Write your own steps here.
 ### Step 2:
 create a django project.
-Step 3:
-
+### Step 3:
 write the needed html code.
-Step 4:
-
+### Step 4:
 run the django server and execute the html code.
 
 ## Code:
@@ -46,4 +44,4 @@ Include your output screenshot here
 ![map 5](https://github.com/Bhagath118/places-around-me/assets/147473779/c40021e5-d0b1-4536-9d5f-d83fdee37049)
 
 ## Result:
-Write your result
+The program is executed successfully.
